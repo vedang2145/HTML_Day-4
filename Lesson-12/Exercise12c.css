@@ -1,0 +1,24 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flex1{
+  background-color: lightpink;
+  
+}
+
+.flex2{
+  background-color: lightpink;
+  
+}
+
+.flex3{
+  background-color: lightpink;
+  
+}
+
+.flex4{
+  background-color: lightpink;
+}

@@ -1,0 +1,36 @@
+.header{
+  background-color: rgb(120, 82, 178);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.home{
+  font-weight: bold;
+}
+
+.text{
+  width: 500px;
+  border: none;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 20px;
+}
+
+.button{
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  background-color: rgb(120, 82, 178);
+  color: white;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+}
